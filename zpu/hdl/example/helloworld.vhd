@@ -1,4 +1,4 @@
--- ZPU
+-- ZPUM
 --
 -- Copyright 2004-2008 oharboe - Øyvind Harboe - oyvind.harboe@zylin.com
 -- 
